@@ -2,5 +2,5 @@
 - Avocado
 - Lime
 - Salt
-- Pepper
+- Peppers
 # Instructions
